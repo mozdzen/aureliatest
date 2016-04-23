@@ -7,16 +7,16 @@
     "navigation",
     "skeleton"
   ],
-  "homepage": "http://aurelia.io",
+  "homepage": "http://aurelia.io/docs.html",
   "bugs": {
-    "url": "https://github.com/aurelia/skeleton-navigation/issues"
+    "url": "https://github.com/mozdzen/aureliatest/issues"
   },
   "license": "CC0-1.0",
   "author": "Rob Eisenberg <rob@bluespire.com> (http://robeisenberg.com/)",
   "main": "dist/main.js",
   "repository": {
     "type": "git",
-    "url": "http://github.com/aurelia/skeleton-navigation"
+    "url": "http://github.com/mozdzen/aureliatest.git"
   },
   "scripts": {
     "test": "gulp test",
